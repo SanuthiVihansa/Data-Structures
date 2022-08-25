@@ -7,9 +7,9 @@ Stack Implementation
     
     for an example if the stack has elements like give below
     
-     | 1 | 2 | 3 | 4 |\n
+     | 1 | 2 | 3 | 4 |
      
-       0   1   2   3  <= Index                            stackArray[top] = 4
+                             stackArray[top] = 4
       
       If we want to remove 0 th index element [1] first we need to remove 3rd index element [D] and 2nd index element [C]. 
       
