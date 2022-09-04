@@ -17,3 +17,14 @@ Stack Implementation
   - The stack is implemented as an array, the array size is taken through the maxSize attribute.
       
       
+Queue Implementation
+
+  -First in first out principle is used in the queue. The item which is inserted first is removed first. 
+  -Similar to stack the middle values cannot ve accessed directly.
+  -contains two variables Rear and Front
+  -Insertions are made in the rear end while deletions are made in the front end 
+  -Operations of a queue are
+      Insert 
+      Remove 
+      peekFront
+      
