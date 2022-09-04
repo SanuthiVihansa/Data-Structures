@@ -24,9 +24,18 @@ Queue Implementation
   - contains two variables Rear and Front
   - Insertions are made in the rear end while deletions are made in the front end 
   - Operations of a queue are
-      Insert 
-      Remove 
-      peekFront
+      Insert ,
+      Remove and
+      peekFront.
       
+
+LinkList Implementation
+
+  - Has sequential navigation. Have to navigate through a chain of elements to find a perticular element 
+  - A link has a data embedded into itself and each link has a reference to the next Link using a pointer named as "Next"
+  - Operations performed by linkList 
+          - Find 
+          - Insert
+          - Delete    
       
       
