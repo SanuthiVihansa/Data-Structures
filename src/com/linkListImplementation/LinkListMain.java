@@ -10,9 +10,9 @@ public class LinkListMain {
         newList.insert(3);
         newList.insert(4);
         newList.insert(5);
-        //newList.insertMiddle(3,2);
-        newList.delete();
-        newList.deleteMiddle(4);
+      newList.insertMiddle(3,2);
+        //newList.delete();
+//        newList.deleteMiddle(4);
         newList.displayLinkList();
 
     }

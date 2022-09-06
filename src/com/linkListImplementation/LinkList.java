@@ -51,17 +51,16 @@ public class LinkList {
         Link newData =  new Link(data);
         Link current = first;
 
+
         while (current != null) {
 
             if (current.iData == key) {
 
                 newData.next=current.next;
                 current.next = newData;
+            }
 
-            }
-            else {
-                current =  current.next;
-            }
+            current =  current.next;
 
         }
 
